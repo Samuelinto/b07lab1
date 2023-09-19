@@ -50,4 +50,5 @@ public class Polynomial {
 		//}
 		return result == 0;
 	}
+
 }
